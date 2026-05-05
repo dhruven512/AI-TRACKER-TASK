@@ -31,7 +31,7 @@ A modern and responsive task management application built using React and Tailwi
 
 ## 🌐 Live Demo
 
-👉 Coming soon (will be deployed on Vercel)
+ (will be deployed on Vercel)](https://ai-tracker-task.vercel.app/)
 
 ---
 
