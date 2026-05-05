@@ -24,8 +24,11 @@ A modern and responsive task management application built using React and Tailwi
 ---
 
 ## 📸 Preview
+🌙 Dark Mode
+<img width="806" height="446" alt="Screenshot 2026-05-05 at 8 29 40 PM" src="https://github.com/user-attachments/assets/afb5f4cd-c4ed-4cdb-badc-8707c4e38ef1" />
 
-![App Screenshot](https://via.placeholder.com/800x400.png?text=AI+Task+Tracker)
+🌞 Light Mode
+<img width="1104" height="534" alt="Screenshot 2026-05-04 at 7 31 16 PM" src="https://github.com/user-attachments/assets/62624e34-8a93-498c-89d9-3ff88daac929" />
 
 ---
 
